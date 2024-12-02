@@ -1,0 +1,6 @@
+Django>=5.1
+django-timescaledb
+jupyter
+requests
+psycopg[binary]
+python-decouple
